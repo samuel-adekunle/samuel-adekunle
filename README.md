@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Samuel's Github Portfolio
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=samuel-adekunle.samuel-adekunle)
+Glad to see you here![visitors](https://visitor-badge.glitch.me/badge?page_id=samuel-adekunle.samuel-adekunle)
+
+I'm a full-stack iOS and web developer. I love programming, travelling and basketball :basketball:
 
 ### :bar_chart: This week I spent my time on:
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samuel_adekunle)
