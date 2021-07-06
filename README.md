@@ -2,7 +2,7 @@
 
 ### Glad to see you! ![visitors](https://visitor-badge.glitch.me/badge?page_id=samuel-adekunle.samuel-adekunle)
 
-[![Samuel's Stats](https://github-readme-stats.vercel.app/api?username=samuel-adekunle)](https://github.com/anuraghazra/github-readme-stats)
+[![Samuel's Stats](https://github-readme-stats.vercel.app/api?username=samuel-adekunle&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **samuel-adekunle/samuel-adekunle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
