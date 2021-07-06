@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Samuel's Github Portfolio
 
-### Glad to see you here&nbsp;&nbsp;&nbsp;<a href="#glad-to-see-you-here"><img height="22em" src="https://visitor-badge.glitch.me/badge?page_id=samuel-adekunle.samuel-adekunle"></img></a>
+### Glad to see you here&nbsp;&nbsp;&nbsp;<a href="#hi-there--im-samuels-github-portfolio"><img height="22em" src="https://visitor-badge.glitch.me/badge?page_id=samuel-adekunle.samuel-adekunle"></img></a>
 
 I'm a full-stack iOS and web developer. I love programming, travelling and basketball 🏀.
 
