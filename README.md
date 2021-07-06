@@ -4,7 +4,7 @@
 
 I'm a full-stack iOS and web developer. I love programming, travelling and basketball 🏀.
 
-As a software engineer, I enjoy the figuring out how things work and solving difficult challenges.
+As a software engineer, I enjoy figuring out how things work and solving difficult challenges.
 
 My main interests are cloud computing and distributed systems.
 
