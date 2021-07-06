@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=samuel-adekunle.samuel-adekunle)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-adekunle&count_private=true&show_icons=true&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-adekunle&langs_count=5&hide=HTML,cuda,css,scss,cmake&exclude_repo=C-MIPS-Compiler,AdventOfCode2020,404CircuitSimulator" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-adekunle&langs_count=5&hide=HTML,Jupyter%20Notebook,cuda,css,scss,cmake&exclude_repo=C-MIPS-Compiler,AdventOfCode2020,404CircuitSimulator" />
 
 **samuel-adekunle/samuel-adekunle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
