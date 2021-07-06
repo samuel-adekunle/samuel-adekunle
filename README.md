@@ -6,6 +6,8 @@ I'm a full-stack iOS and web developer. I love programming, travelling and baske
 
 As a software engineer, I enjoy the figuring out how things work and solving difficult challenges.
 
+My main interests are cloud computing and distributed systems.
+
 ### More about me:
  - 😀 My pronouns are He/him;
  - 👨‍💻 My favourite programming language is Golang <a href="https://golang.com"><img height="22em" src="https://emojis.slackmojis.com/emojis/images/1454546974/291/golang.png?1454546974"></img></a>
