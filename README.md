@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=samuel-adekunle.samuel-adekunle)
 
 ### :bar_chart: How I spent my time
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samuel-adekunle)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samuel_adekunle)
 
 ### :chart_with_upwards_trend: My Github Stats:
 <a><img src="https://github-readme-stats.vercel.app/api?username=samuel-adekunle&count_private=true&show_icons=true&hide=issues" /></a>
