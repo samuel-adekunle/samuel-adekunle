@@ -8,7 +8,7 @@ I'm a full-stack iOS and web developer. I love programming, travelling and baske
 
 ### More about me:
  - 😀 My pronouns are He/him;
- - 👨‍💻 My favourite programming language is Golang <a><img src="https://emojis.slackmojis.com/emojis/images/1454546974/291/golang.png?1454546974"></img></a>
+ - 👨‍💻 My favourite programming language is Golang <a><img height="16em" src="https://emojis.slackmojis.com/emojis/images/1454546974/291/golang.png?1454546974"></img></a>
  - 📝 I occasionally write articles on my personal [website](https://samuel-adekunle.software/posts);
  - :postbox: How to reach me: [me@samuel-adekunle.software](mailto:me@samuel-adekunle.software);
  - :necktie: [Resume](https://samuel-adekunle.software/cv.pdf).
