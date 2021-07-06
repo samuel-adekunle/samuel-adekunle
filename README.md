@@ -16,7 +16,7 @@ My main interests are cloud computing and distributed systems.
  - :necktie: [Resume](https://samuel-adekunle.software/cv.pdf).
 
 ### :bar_chart: This week I spent my time on:
-<a href="#this-week-i-spent-my-time-on"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=samuel_adekunle&hide_border=true"></img></a>
+<a href="#bar_chart-this-week-i-spent-my-time-on"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=samuel_adekunle&hide_border=true"></img></a>
 
 ### :chart_with_upwards_trend: My Github Stats:
 <a href="#my-github-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?hide_border=true&include_all_commits=true&username=samuel-adekunle&count_private=true&show_icons=true&hide=issues" /></a>
