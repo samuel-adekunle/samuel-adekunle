@@ -19,5 +19,5 @@ My main interests are cloud computing and distributed systems.
 <a href="#bar_chart-this-week-i-spent-my-time-on"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=samuel_adekunle&hide_border=true"></img></a>
 
 ### :chart_with_upwards_trend: My Github Stats:
-<a href="#my-github-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?hide_border=true&include_all_commits=true&username=samuel-adekunle&count_private=true&show_icons=true&hide=issues" /></a>
-<a href="#my-github-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-adekunle&langs_count=5&hide=HTML,Jupyter%20Notebook,cuda,css,scss,cmake&exclude_repo=C-MIPS-Compiler,AdventOfCode2020,404CircuitSimulator&layout=compact&hide_border=true" /></a>
+<a href="#chart_with_upwards_trend-my-github-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?hide_border=true&include_all_commits=true&username=samuel-adekunle&count_private=true&show_icons=true&hide=issues" /></a>
+<a href="#chart_with_upwards_trend-my-github-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-adekunle&langs_count=5&hide=HTML,Jupyter%20Notebook,cuda,css,scss,cmake&exclude_repo=C-MIPS-Compiler,AdventOfCode2020,404CircuitSimulator&layout=compact&hide_border=true" /></a>
