@@ -7,7 +7,7 @@ I'm a full-stack iOS and web developer. I love programming, travelling and baske
 
 ### More about me:
  - :grinning: My pronouns are He/him;
- - :man_technologist_medium_dark_skin_tone: I'm currently working as the Lead Developer @TheChoralHub;
+ - :man_technologist: I'm currently working as the Lead Developer @TheChoralHub;
  - :memo: I occasionally write articles on my personal [website](https://samuel-adekunle/posts);
  - :postbox: How to reach me: [me@samuel-adekunle.software](mailto:me@samuel-adekunle.software);
  - :necktie: [Resume](https://samuel-adekunle.software/cv.pdf).
