@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=samuel-adekunle.samuel-adekunle)
 
-### :bar_chart: How I spent my time
+### :bar_chart: This week I spent my time on:
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samuel_adekunle)
 
 ### :chart_with_upwards_trend: My Github Stats:
