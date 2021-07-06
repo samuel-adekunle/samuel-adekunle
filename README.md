@@ -3,11 +3,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=samuel-adekunle.samuel-adekunle)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-adekunle&count_private=true&show_icons=true&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10" />
-
-![Samuel's Stats]()
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-adekunle&langs_count=10" />
 
 **samuel-adekunle/samuel-adekunle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
