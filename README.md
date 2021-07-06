@@ -3,6 +3,7 @@
 ### Glad to see you here&nbsp;&nbsp;&nbsp;<a href="#hi-there--im-samuels-github-portfolio"><img height="22em" src="https://visitor-badge.glitch.me/badge?page_id=samuel-adekunle.samuel-adekunle"></img></a>
 
 <a href="https://linkedin.com/in/samuel-adekunle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="#hi-there--im-samuels-github-portfolio"><img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"></img></a>
 
 I'm a full-stack iOS and web developer. I love programming, travelling and basketball 🏀.
 
