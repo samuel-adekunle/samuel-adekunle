@@ -9,7 +9,7 @@ I'm a full-stack iOS and web developer. I love programming, travelling and baske
 
 ### :chart_with_upwards_trend: My Github Stats:
 <a><img height="150em" src="https://github-readme-stats.vercel.app/api?hide_border=true&include_all_commits=true&username=samuel-adekunle&count_private=true&show_icons=true&hide=issues" /></a>
-<a><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-adekunle&langs_count=5&hide=HTML,Jupyter%20Notebook,cuda,css,scss,cmake&exclude_repo=C-MIPS-Compiler,AdventOfCode2020,404CircuitSimulator&layout=compact" /></a>
+<a><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-adekunle&langs_count=5&hide=HTML,Jupyter%20Notebook,cuda,css,scss,cmake&exclude_repo=C-MIPS-Compiler,AdventOfCode2020,404CircuitSimulator&layout=compact&hide_border=true" /></a>
 
 **samuel-adekunle/samuel-adekunle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
