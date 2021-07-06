@@ -2,7 +2,9 @@
 
 ### Glad to see you here&nbsp;&nbsp;&nbsp;<a href="#"><img height="22em" src="https://visitor-badge.glitch.me/badge?page_id=samuel-adekunle.samuel-adekunle"></img></a>
 
-I'm a full-stack iOS and web developer. I love programming, travelling and basketball 🏀
+I'm a full-stack iOS and web developer. I love programming, travelling and basketball 🏀.
+
+As a software engineer, I enjoy the figuring out how things work and solving difficult challenges.
 
 ### More about me:
  - 😀 My pronouns are He/him;
