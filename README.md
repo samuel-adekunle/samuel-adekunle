@@ -5,7 +5,7 @@
 I'm a full-stack iOS and web developer. I love programming, travelling and basketball :basketball:
 
 ### :bar_chart: This week I spent my time on:
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samuel_adekunle)
+<a><img src="https://github-readme-stats.vercel.app/api/wakatime?username=samuel_adekunle&hide_border=true"></img></a>
 
 ### :chart_with_upwards_trend: My Github Stats:
 <a><img height="150em" src="https://github-readme-stats.vercel.app/api?hide_border=true&include_all_commits=true&username=samuel-adekunle&count_private=true&show_icons=true&hide=issues" /></a>
