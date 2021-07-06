@@ -2,12 +2,14 @@
 
 ### Glad to see you here&nbsp;&nbsp;&nbsp;<a><img height="20em" src="https://visitor-badge.glitch.me/badge?page_id=samuel-adekunle.samuel-adekunle"></img></a>
 
-I'm a full-stack iOS and web developer. I love programming, travelling and basketball :basketball:
+I'm a full-stack iOS and web developer. I love programming, travelling and basketball 🏀
+
+
 
 ### More about me:
- - :grinning: My pronouns are He/him;
- - :man_technologist: I'm currently working as the Lead Developer @TheChoralHub;
- - :memo: I occasionally write articles on my personal [website](https://samuel-adekunle.software/posts);
+ - 😀 My pronouns are He/him;
+ - 👨‍💻 My favourite programming language is Golang <a><img src="https://emojis.slackmojis.com/emojis/images/1454546974/291/golang.png?1454546974"></img></a>
+ - 📝 I occasionally write articles on my personal [website](https://samuel-adekunle.software/posts);
  - :postbox: How to reach me: [me@samuel-adekunle.software](mailto:me@samuel-adekunle.software);
  - :necktie: [Resume](https://samuel-adekunle.software/cv.pdf).
 
