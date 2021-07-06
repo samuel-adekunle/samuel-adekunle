@@ -4,7 +4,6 @@
 
 I'm a full-stack iOS and web developer. I love programming, travelling and basketball :basketball:
 
-
 ### More about me:
  - :grinning: My pronouns are He/him;
  - :man_technologist: I'm currently working as the Lead Developer @TheChoralHub;
