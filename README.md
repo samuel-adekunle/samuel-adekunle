@@ -10,6 +10,8 @@
 
 He's a full-stack iOS and web developer who loves programming, travelling and basketball.
 
+He's also currently studying Electrical and Information Engineering at Imperial College London till 2023.
+
 As a software engineer, he enjoys figuring out how things work and solving difficult challenges.
 
 His main interests are cloud computing and distributed systems.
