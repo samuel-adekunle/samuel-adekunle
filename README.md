@@ -10,7 +10,7 @@
 
 He's a full-stack iOS and web developer who loves programming, travelling and basketball.
 
-He's also currently studying Electrical and Information Engineering at Imperial College London.
+He's also currently a second year Electronic and Information Engineering student at Imperial College London.
 
 As a software engineer, he enjoys figuring out how things work and solving difficult challenges.
 
