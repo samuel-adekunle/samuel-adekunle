@@ -8,11 +8,11 @@
 <a href="https://twitter.com/femi__ade"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
 <a href="https://samuel-adekunle.software"><img alt="Website" src="https://img.shields.io/badge/website-%23E34F26.svg?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
-He's a full-stack iOS and web developer who loves programming, travelling and basketball.
+He's a full-stack iOS and web developer who loves travelling and basketball.
 
-He's also currently a second year Electronic and Information Engineering student at Imperial College London.
+He's also currently a second year Electronic Information Engineering student at Imperial College.
 
-As a software engineer, he enjoys figuring out how things work and solving difficult challenges.
+As a software engineer, he enjoys figuring out how things work and solving problems.
 
 His main interests are cloud computing and distributed systems.
 
