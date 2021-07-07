@@ -8,7 +8,7 @@
 <a href="https://twitter.com/femi__ade"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
 <a href="https://samuel-adekunle.software"><img alt="Website" src="https://img.shields.io/badge/website-%23E34F26.svg?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
-He's a full-stack iOS and web developer who loves programming, travelling and basketball 🏀.
+He's a full-stack iOS and web developer who loves programming, travelling and basketball.
 
 As a software engineer, he enjoys figuring out how things work and solving difficult challenges.
 
