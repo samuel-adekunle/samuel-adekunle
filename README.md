@@ -23,9 +23,9 @@ His main interests are cloud computing and distributed systems.
  - :postbox: How to reach him: [me@samuel-adekunle.software](mailto:me@samuel-adekunle.software);
  - :necktie: [Resume](https://samuel-adekunle.software/cv.pdf).
 
-### :bar_chart: This week he spent my time on:
-<a href="#bar_chart-this-week-i-spent-my-time-on"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=samuel_adekunle&hide_border=true"></img></a>
+### :bar_chart: This week he spent time working on:
+<a href="#bar_chart-this-week-he-spent-time-working-on"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=samuel_adekunle&hide_border=true"></img></a>
 
 ### :chart_with_upwards_trend: My Stats:
-<a href="#chart_with_upwards_trend-my-github-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?hide_border=true&include_all_commits=true&username=samuel-adekunle&count_private=true&show_icons=true&hide=issues" /></a>
-<a href="#chart_with_upwards_trend-my-github-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-adekunle&langs_count=5&hide=HTML,Jupyter%20Notebook,cuda,css,scss,cmake&exclude_repo=C-MIPS-Compiler,AdventOfCode2020,404CircuitSimulator&layout=compact&hide_border=true&count_private=true" /></a>
+<a href="#chart_with_upwards_trend-my-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?hide_border=true&include_all_commits=true&username=samuel-adekunle&count_private=true&show_icons=true&hide=issues" /></a>
+<a href="#chart_with_upwards_trend-my-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-adekunle&langs_count=5&hide=HTML,Jupyter%20Notebook,cuda,css,scss,cmake&exclude_repo=C-MIPS-Compiler,AdventOfCode2020,404CircuitSimulator&layout=compact&hide_border=true&count_private=true" /></a>
