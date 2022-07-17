@@ -1,7 +1,6 @@
 # Hi there, I am Samuel.
 
 <a href="https://linkedin.com/in/samuel-adekunle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-<a href="https://twitter.com/femi__ade"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
 <a href="https://samuel-adekunle.software"><img alt="Website" src="https://img.shields.io/badge/website-%23E34F26.svg?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 ### :chart_with_upwards_trend: My Stats
